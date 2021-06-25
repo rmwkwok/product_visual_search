@@ -22,7 +22,7 @@ To connect all the dots in this section, I first gradually fine-tuned the pre-tr
 
 # Training steps
 
-![architecture](https://github.com/rmwkwok/visual_search/raw/31dd90d1f0ce1fcdde325b09cd05b18f73265ae7/images/architecture.png)
+![architecture](https://github.com/rmwkwok/product_visual_search/blob/1cb7370dbc42042bd450e48de8b61ac21c6bde43/images/architecture.png)
 
 It was divided into 4 phases. 
 
@@ -42,7 +42,7 @@ You might be wondering how I had tuned the hyper-parameters and why I did not tr
 
 This concluded, and if you are interested, below is a summary of my LB score journey. I can do better next time.
 
-![LB scores](https://github.com/rmwkwok/visual_search/raw/31dd90d1f0ce1fcdde325b09cd05b18f73265ae7/images/journey.png)
+![LB scores](https://github.com/rmwkwok/product_visual_search/blob/1cb7370dbc42042bd450e48de8b61ac21c6bde43/images/journey.png)
 
 # Acknowledgement
 
